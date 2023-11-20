@@ -20,10 +20,9 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=git,html,css,js,java,spring,idea,maven,linuxl&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,spring,postman,maven,mysql,mongodb,py,vscode,linux,bash" />
   </a>
 </p>
-
 <br>
 
 
