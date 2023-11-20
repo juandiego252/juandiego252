@@ -15,7 +15,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Tech Stack 🧑‍💻 :
 
 <br>
 <p align="center">
