@@ -15,7 +15,7 @@
 
 <br>
 
-## Tech Stack 🧑‍💻 :
+## Tech Stack 💻 :
 
 <br>
 <p align="center">
