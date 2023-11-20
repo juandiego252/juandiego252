@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juan Diego </h1>
 
@@ -16,7 +15,16 @@
 
 <br>
 
+## What I am Good at 🧑‍💻 :
 
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,spring,idea,mysql,maven" />
+  </a>
+</p>
+
+<br>
 
 
 
