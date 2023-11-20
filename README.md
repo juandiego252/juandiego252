@@ -20,7 +20,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)" />
+    <img src = "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
   </a>
 </p>
 
