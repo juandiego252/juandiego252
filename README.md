@@ -25,7 +25,6 @@
 </p>
 <br>
 
-# 📊 GitHub Stats:
 ## GitHub Stats 📈 :
 
 <br>
