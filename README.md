@@ -31,6 +31,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juandiego252&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=juandiego252&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 <br>
-
+---
+[![](https://visitcount.itsvg.in/api?id=juandiego252&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
