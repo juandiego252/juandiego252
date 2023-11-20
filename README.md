@@ -31,7 +31,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juandiego252&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=juandiego252&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 <br>
 
---
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=juandiego252)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+<br>
+
+---
 [![](https://visitcount.itsvg.in/api?id=juandiego252&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
