@@ -12,7 +12,6 @@
 <br>
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/diego_crdova/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/juan-diego-gualotu%C3%B1a-cordova-a93016296/)
-
 <br>
 
 ## Tech Stack 💻 :
@@ -29,9 +28,11 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juandiego252&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=juandiego252&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juandiego252&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=juandiego252&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 <br>
----
+
+<br>
 [![](https://visitcount.itsvg.in/api?id=juandiego252&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<br>
 
 
