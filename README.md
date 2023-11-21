@@ -6,7 +6,6 @@
 - 🏢 I am currently studying **Software Development** at [EPN](https://www.epn.edu.ec/)
 - 🏡'Lives in **Quito, Ecuador**
 - ⚡ **Fun Facts** : 🍔 🎧 ⚽ 💻 🚵
-- Bi
 
 ## Connect with me ☕ :
 
