@@ -38,6 +38,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=juandiego252)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 <br>
-[![](https://visitcount.itsvg.in/api?id=juandiego252&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=juandiego252&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
