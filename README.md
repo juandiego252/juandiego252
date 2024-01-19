@@ -36,7 +36,8 @@
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juandiego252)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-![Views](https://komarev.com/ghpvc/?username=juandiego252&color=green)
 
 <br>
+
+![Views](https://komarev.com/ghpvc/?username=juandiego252&color=green)
 
