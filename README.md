@@ -39,6 +39,6 @@
 
 <br>
 <br>
-!(https://komarev.com/ghpvc/?username=juandiego252&color=green)
+[![](https://komarev.com/ghpvc/?username=juandiego252&color=green)
 <br>
 
