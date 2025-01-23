@@ -38,9 +38,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=juandiego252)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandiego252&layout=compact"/>
-</p>
+</p> -->
 
 ![Views](https://komarev.com/ghpvc/?username=juandiego252&color=green)
 
